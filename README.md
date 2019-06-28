@@ -346,3 +346,8 @@
 - 加速器控制公司 cosylab https://www.cosylab.com/current-vacancies/
 
 ## 去公司
+
+# 如何贡献
+- 在issues中直接提出意见
+- fork本项目后pull requests
+- 希望本文档可以持续更新和补充
