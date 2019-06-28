@@ -306,3 +306,43 @@
 - 图书馆
 	* 除了图书外，还有大量电子资源，如 查找文献下的影音资料
 	* 如果喜欢的书，图书馆没有，可以“图书荐购”，到馆后可以荐购优先借阅
+
+# 工作
+## 留科研界
+- 汇总国际上各个实验室招聘网站如下：
+
+- 中国
+	- 上海应用物理研究所
+	- 北京高能物理研究所（包括东莞）
+	- 兰州近代物理研究生
+	- 上海科技大学
+	- 华中科技大学
+- 美洲
+	- SLAC：https://careers.slac.stanford.edu/
+	- FRIB@MSU：https://www.frib.msu.edu/employment/index.html
+	- BNL：https://jobs.bnl.gov/
+	- ANL 阿贡国家实验室：https://www.anl.gov/careers/apply-job/external-applicants
+	- LBNL罗伦斯伯克利国家实验室：https://als.lbl.gov/about/career-opportunities/
+	- Jefferson Lab：https://www.jlab.org/job-openings
+	- Los Alamos：https://www.lanl.gov/careers/
+	- Oak Ridge：https://jobs.ornl.gov/
+	- Triumf（加拿大）http://www.triumf.ca/home/careers-at-triumf/job-postings
+	- LNLS（巴西）https://www.lnls.cnpem.br/opportunities/
+- 欧洲
+	- DESY https://www.desy.de/career/job_offers/index_eng.html
+	- PSI https://www.psi.ch/pa/job-opportunities/
+	- ESS https://europeanspallationsource.se/careers/vacancies
+	- ITER https://www.iter.org/Jobs
+	- CERN http://careers.cern/
+	- SOLEIL https://www.synchrotron-soleil.fr/en/job-offers
+	- Diamond http://www.diamond.ac.uk/Careers/Vacancies.html
+	- INFN http://w3.lnf.infn.it/accelerators/?lang=en
+	- ESRF ttp://www.esrf.eu/home/Jobs/engineering-rd-and-technical-opportunities.html
+	- ALBA https://intranet.cells.es/Jobs/JobOffers
+- 亚洲
+	- KEK https://www.kek.jp/en/Jobs/
+- 澳洲
+	- CLS http://www.lightsource.ca/careers.html
+- 加速器控制公司 cosylab https://www.cosylab.com/current-vacancies/
+
+## 去公司
